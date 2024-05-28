@@ -52,6 +52,8 @@
 - Maintenance Guidelines
 - Support Resources
 
+![Initial Architecture design](https://github.com/Jenil-Varma/Software_Architecture/assets/39981147/89aec7b4-00dc-4d2a-a313-589ea80ee671)
+
 
 
 
